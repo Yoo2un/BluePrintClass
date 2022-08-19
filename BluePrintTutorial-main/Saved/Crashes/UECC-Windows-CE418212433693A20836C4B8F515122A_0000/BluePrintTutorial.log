@@ -1,0 +1,1002 @@
+﻿Log file open, 08/18/22 20:37:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=5332)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BluePrintTutorial
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Administrator\Documents\Unreal Projects\BluePrintTutorial-main\BluePrintTutorial.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (Release 1909) [10.0.18363.1734] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e51371e44383148a852fa0aa43d6d00e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.250790
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-CE418212433693A20836C4B8F515122A
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (Release 1909) [10.0.18363.1734] (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.18-11.37.14:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.18-11.37.14:487][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.18-11.37.14:487][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.18-11.37.14:487][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.18-11.37.14:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.18-11.37.14:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.18-11.37.14:487][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.18-11.37.14:487][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.18-11.37.14:487][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.18-11.37.14:487][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.18-11.37.14:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.18-11.37.14:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.18-11.37.14:487][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.18-11.37.14:487][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.18-11.37.14:488][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.18-11.37.14:490][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.18-11.37.14:490][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.18-11.37.14:490][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.18-11.37.14:490][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.18-11.37.14:490][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.18-11.37.14:490][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.18-11.37.14:491][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.18-11.37.14:491][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.18-11.37.14:491][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.18-11.37.14:491][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.18-11.37.14:491][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.18-11.37.14:649][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.18-11.37.14:649][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.18-11.37.14:875][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.08.18-11.37.14:875][  0]LogD3D12RHI: Adapter has 1977MB of dedicated video memory, 0MB of dedicated system memory, and 8150MB of shared system memory, 1 output[s]
+[2022.08.18-11.37.14:884][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.18-11.37.14:884][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8150MB of shared system memory, 0 output[s]
+[2022.08.18-11.37.14:884][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.18-11.37.14:884][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.18-11.37.14:884][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.18-11.37.14:884][  0]LogHAL: Display: Platform has ~ 16 GB [17092837376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.18-11.37.14:884][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.18-11.37.14:884][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.18-11.37.14:884][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.18-11.37.14:885][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.18-11.37.14:885][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.18-11.37.14:885][  0]LogInit: Computer: DESKTOP-G7R323G
+[2022.08.18-11.37.14:885][  0]LogInit: User: Administrator
+[2022.08.18-11.37.14:885][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.08.18-11.37.14:885][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.18-11.37.14:885][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.18-11.37.14:885][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.18-11.37.14:885][  0]LogMemory: Process Physical Memory: 269.86 MB used, 280.72 MB peak
+[2022.08.18-11.37.14:885][  0]LogMemory: Process Virtual Memory: 228.41 MB used, 228.41 MB peak
+[2022.08.18-11.37.14:885][  0]LogMemory: Physical Memory: 6969.27 MB used,  9331.73 MB free, 16301.00 MB total
+[2022.08.18-11.37.14:885][  0]LogMemory: Virtual Memory: 8743.36 MB used,  9989.64 MB free, 18733.00 MB total
+[2022.08.18-11.37.14:885][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.18-11.37.14:892][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.18-11.37.14:910][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.18-11.37.14:911][  0]LogInit: Using OS detected language (ko-KR).
+[2022.08.18-11.37.14:911][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.08.18-11.37.14:914][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so 'ko' will be used for the language.
+[2022.08.18-11.37.15:021][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.18-11.37.15:053][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.18-11.37.15:053][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.08.18-11.37.15:053][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.08.18-11.37.15:065][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.18-11.37.15:065][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.18-11.37.15:183][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.18-11.37.15:187][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.18-11.37.15:187][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.18-11.37.15:244][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.08.18-11.37.15:296][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.18-11.37.15:300][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.18-11.37.15:308][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.18-11.37.15:519][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.18-11.37.15:519][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.18-11.37.15:576][  0]LogD3D12RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.18-11.37.15:576][  0]LogWindows: Attached monitors:
+[2022.08.18-11.37.15:576][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.18-11.37.15:576][  0]LogWindows: Found 1 attached monitors.
+[2022.08.18-11.37.15:576][  0]LogWindows: EnumDisplayDevices:
+[2022.08.18-11.37.15:576][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.18-11.37.15:577][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.08.18-11.37.15:577][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.18-11.37.15:578][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.08.18-11.37.15:578][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.08.18-11.37.15:578][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.08.18-11.37.15:578][  0]LogD3D12RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.08.18-11.37.15:578][  0]LogD3D12RHI:      Driver Date: 9-30-2020
+[2022.08.18-11.37.15:579][  0]LogRHI: Texture pool is 1058 MB (70% of 1512 MB)
+[2022.08.18-11.37.15:579][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.18-11.37.15:579][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.18-11.37.15:590][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.18-11.37.17:332][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.08.18-11.37.17:334][  0]Message dialog closed, result: Ok, title: 경고: 그래픽 드라이버 관련 알려진 문제점이 있습니다., text: 설치된 NVIDIA 그래픽 드라이버 버전에는 D3D12에 알려진 문제가 있습니다.
+최신 또는 권장 드라이버 버전을 설치하거나 다른 렌더링 API로 교체해 주세요.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1050
+설치 버전: 456.71
+권장 버전: 516.25
+[2022.08.18-11.37.17:341][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/BluePrintTutorial.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/BluePrintTutorial.uproject"  -platform=all'
+[2022.08.18-11.37.17:341][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/BluePrintTutorial.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/BluePrintTutorial.uproject"  -platform=all" ]
+[2022.08.18-11.37.17:370][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.18-11.37.17:379][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.18-11.37.17:379][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.18-11.37.17:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.18-11.37.17:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.18-11.37.17:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.18-11.37.17:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.18-11.37.17:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.18-11.37.17:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.18-11.37.17:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.18-11.37.17:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.18-11.37.17:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.18-11.37.17:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.18-11.37.17:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.18-11.37.17:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.18-11.37.17:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.18-11.37.17:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.18-11.37.17:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.18-11.37.17:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.18-11.37.17:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.18-11.37.17:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.18-11.37.17:440][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.18-11.37.17:448][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.18-11.37.17:452][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.18-11.37.17:452][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.18-11.37.17:452][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.18-11.37.17:452][  0]LogTargetPlatformManager:   PCM
+[2022.08.18-11.37.17:455][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.18-11.37.17:455][  0]LogTargetPlatformManager:   BINKA
+[2022.08.18-11.37.17:455][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.18-11.37.17:455][  0]LogTargetPlatformManager:   OGG
+[2022.08.18-11.37.17:455][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.18-11.37.17:455][  0]LogTargetPlatformManager:   OPUS
+[2022.08.18-11.37.17:497][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.18-11.37.17:504][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.18-11.37.17:508][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.18-11.37.17:508][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.18-11.37.17:508][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.18-11.37.17:508][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.18-11.37.17:508][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.18-11.37.17:508][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.18-11.37.17:508][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.18-11.37.17:508][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.18-11.37.17:508][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.18-11.37.17:508][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.18-11.37.17:509][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.18-11.37.17:509][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.18-11.37.17:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.18-11.37.17:511][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.18-11.37.17:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.18-11.37.17:511][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.18-11.37.17:536][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.18-11.37.17:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.18-11.37.17:536][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.18-11.37.17:544][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.08.18-11.37.17:544][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=252.98MBs, RandomWriteSpeed=219.99MBs. Assigned SpeedClass 'Local'
+[2022.08.18-11.37.17:545][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.18-11.37.17:545][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.18-11.37.17:545][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.18-11.37.17:551][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.18-11.37.17:551][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.18-11.37.17:552][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Intermediate/Shaders/WorkingDirectory/13072/).
+[2022.08.18-11.37.17:552][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/74846F904142A1ECEEFBE5A3634BCD49/'.
+[2022.08.18-11.37.17:552][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.18-11.37.17:552][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.08.18-11.37.18:797][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.18-11.37.18:797][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.18-11.37.18:797][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.18-11.37.18:832][  0]LogAssetRegistry: FAssetRegistry took 0.0132 seconds to start up
+[2022.08.18-11.37.18:837][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.18-11.37.19:046][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.18-11.37.19:047][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.18-11.37.19:330][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.18-11.37.19:330][  0]LogDeviceProfileManager: Active device profile: [00000838B6F50540][00000838ABA00000 50] WindowsEditor
+[2022.08.18-11.37.19:330][  0]LogDeviceProfileManager: Profiles: [00000838B6F50000][00000838ABA02800 50] Windows, [00000838B6F50540][00000838ABA00000 50] WindowsEditor, [00000838B6F52A00][00000838ABA0A000 50] WindowsServer, [00000838B6F524C0][000008389CDF0000 50] WindowsClient, [00000838B6F52300][00000838AB997800 50] IOS, [00000838B6F52140][00000838ABA05000 50] iPadAir2, [00000838B6F55240][00000838B6F00000 50] IPadPro, [00000838B6F555C0][00000838B6F02800 50] iPadAir3, [00000838B6F539C0][00000838B6F07800 50] iPadAir4, [00000838B6F55080][00000838B6F0A000 50] iPadMini4, [00000838B6F50380][00000838B6F0C800 50] iPadMini5, [00000838B6F54EC0][00000838AB995000 50] iPadMini6, [00000838B6F58340][00000838B6F42800 50] iPhone6S, [00000838B6F586C0][00000838B6F40000 50] iPhone7, [00000838B6F58A40][00000838B6F45000 50] iPodTouch7, [00000838B6F547C0][00000838B6F4A000 50] iPhone6SPlus, [00000838B6F57C40][00000838B6F4C800 50] iPhone7Plus, [00000838B6F51180][00000838B6F05000 50] iPhoneSE, [00000838B6F53480][00000838B6F47800 50] iPhone8, [00000838B6F57A80][00000838B6EC0000 50] iPhone8Plus, [00000838B6F51500][00000838B6EC5000 50] iPhoneX, [00000838B6F53100][00000838B6EC7800 50] iPhoneXS, [00000838B6F578C0][00000838B6ECA000 50] iPhoneXSMax, [00000838B6F52D80][00000838B6ECC800 50] iPhoneXR, [00000838B6F540C0][00000838ADACC800 50] iPhone11, [00000838B6F57700][00000838B6F10000 50] iPhone11Pro, [00000838B6F54B40][00000838B6F15000 50] iPhone11ProMax, [00000838B6F57E00][00000838B6F17800 50] iPhoneSE2, [00000838B6F54280][00000838B6F1A000 50] iPhone12Mini, [00000838B6F56740][00000838B6F1C800 50] iPhone12, [00000838B6F53800][00000838B6EC2800 50] iPhone12Pro, [00000838B6F56AC0][00000838B6EF0000 50] iPhone12ProMax, [00000838B6F52680][00000838B6EF5000 50] iPhone13Mini, [00000838B6F55400][00000838B6EF7800 50] iPhone13, [00000838B6F51DC0][00000838B6EFA000 50] iPhone13Pro, [00000838B6F57FC0][00000838B6EFC800 50] iPhone13ProMax, [00000838B6F51A40][00000838B6F12800 50] iPadPro105, [00000838B6F57380][00000838B6F60000 50] iPadPro129, [00000838B6F50E00][00000838B6F65000 50] iPadPro97, [00000838B6F55780][00000838B6F67800 50] iPadPro2_129, [00000838B6F51340][00000838B6F6A000 50] iPad5, [00000838B6F54600][00000838B6F6C800 50] iPad6, [00000838B6F52F40][00000838B6EF2800 50] iPad7, [00000838B6F54D00][00000838B6F70000 50] iPad8, [00000838B6F508C0][00000838B6F75000 50] iPad9, [00000838B6F55940][00000838B6F77800 50] iPadPro11, [00000838B6F51F80][00000838B6F7A000 50] iPadPro2_11, [00000838B6F55CC0][00000838B6F7C800 50] iPadPro3_11, [00000838B6F56040][00000838B6F62800 50] iPadPro3_129, [00000838B6F53F00][00000838B6F90000 50] iPadPro4_129, [00000838B6F57540][00000838B6F95000 50] iPadPro5_129, [00000838B6F516C0][00000838B6F97800 50] AppleTV, [00000838B6F58180][00000838B6F9A000 50] AppleTV4K, [00000838B6F56580][00000838B6F9C800 50] TVOS, [00000838B6F5A2C0][00000838B6FD0000 50] Mac, [00000838B6F5A640][00000838B6FD2800 50] MacEditor, [00000838B6F53D40][00000838B6FD7800 50] MacClient, [00000838B6F55B00][00000838B6FDA000 50] MacServer, [00000838B6F5AB80][00000838B6F72800 50] Linux, [00000838B6F50700][00000838B6F92800 50] LinuxEditor, [00000838B6F59840][00000838B6FDC800 50] LinuxArm64Editor, [00000838B6F54440][00000838B6FE0000 50] LinuxArm64, [00000838B6F5A100][00000838B6FE5000 50] LinuxClient, [00000838B6F52840][00000838B6FE7800 50] LinuxArm64Client, [00000838B6F56E40][00000838B6FEA000 50] LinuxServer, [00000838B6F58C00][00000838B6FEC800 50] LinuxArm64Server, [00000838B6F50C40][00000838B6FD5000 50] Android, [00000838B6F50A80][00000838B6FF0000 50] Android_Preview_OpenGL, [00000838B6F56200][00000838B6FF5000 50] Android_Preview_Vulkan, [00000838B6F59A00][00000838B6FF7800 50] Android_Low, [00000838B6F59D80][00000838B6FFA000 50] Android_Mid, [00000838B6F5A800][00000838B6FFC800 50] Android_High, [00000838B6F59F40][00000838B6FE2800 50] Android_Default, [00000838B6F594C0][00000838B6FA0000 50] Android_Adreno4xx, [00000838B6F59140][00000838B6FA5000 50] Android_Adreno5xx_Low, [00000838B6F55E80][00000838B6FA7800 50] Android_Adreno5xx, [00000838B6F59300][00000838B6FAA000 50] Android_Adreno6xx, [00000838B6F51880][00000838B6FAC800 50] Android_Adreno6xx_Vulkan, [00000838B6F58F80][00000838B6FF2800 50] Android_Adreno7xx, [00000838B6F5AD40][00000838B6FB0000 50] Android_Adreno7xx_Vulkan, [00000838B6F56C80][00000838B6FB5000 50] Android_Mali_T6xx, [00000838B6F5AF00][00000838B6FB7800 50] Android_Mali_T7xx, [00000838B6F52BC0][00000838B6FBA000 50] Android_Mali_T8xx, [00000838B6F5B0C0][00000838B6FBC800 50] Android_Mali_G71, [00000838B6F50FC0][00000838B6FA2800 50] Android_Mali_G72, [00000838B6F532C0][00000838B6FC0000 50] Android_Mali_G72_Vulkan, [00000838B6F5A9C0][00000838B6FC5000 50] Android_Mali_G76, [00000838B6F5A480][00000838B6FC7800 50] Android_Mali_G76_Vulkan, [00000838B6F5BD00][00000838B6FCA000 50] Android_Mali_G77, [00000838B6F53640][00000838B6FCC800 50] Android_Mali_G77_Vulkan, [00000838B6F5BEC0][00000838B6FB2800 50] Android_Mali_G78, [00000838B6F5B280][00000838B8990000 50] Android_Mali_G78_Vulkan, [00000838B6F5C080][00000838B8995000 50] Android_Mali_G710, [00000838B6F59680][00000838B8997800 50] Android_Mali_G710_Vulkan, [00000838B6F563C0][00000838B899A000 50] Android_Xclipse_920, [00000838B6F53B80][00000838B899C800 50] Android_Xclipse_920_Vulkan, [00000838B6F57000][00000838B6FC2800 50] Android_Vulkan_SM5, [00000838B6F5C240][00000838B89A0000 50] Android_PowerVR_G6xxx, [00000838B6F5CE80][00000838B89A5000 50] Android_PowerVR_GT7xxx, [00000838B6F59BC0][00000838B89A7800 50] Android_PowerVR_GE8xxx, [00000838B6F5D040][00000838B89AA000 50] Android_PowerVR_GM9xxx, [00000838B6F58880][00000838B89AC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000838B6F5B440][00000838B8992800 50] Android_TegraK1, [00000838B6F5C780][00000838B89B0000 50] Android_Unknown_Vulkan, [00000838B6F5B7C0][00000838B89B5000 50] Oculus_Quest, [00000838B6F5DC80][00000838B89B7800 50] Oculus_Quest2, [00000838B6F58500][00000838B89BA000 50] HoloLens, 
+[2022.08.18-11.37.19:330][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.18-11.37.19:333][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.18-11.37.19:350][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.18-11.37.19:529][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.18-11.37.19:529][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.18-11.37.19:529][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.18-11.37.19:529][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.18-11.37.19:529][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.18-11.37.19:544][  0]LogNetVersion: BluePrintTutorial 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1980949108)
+[2022.08.18-11.37.19:653][  0]LogSlate: Border
+[2022.08.18-11.37.19:653][  0]LogSlate: BreadcrumbButton
+[2022.08.18-11.37.19:653][  0]LogSlate: Default
+[2022.08.18-11.37.19:653][  0]LogSlate: Icons.Save
+[2022.08.18-11.37.19:653][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.18-11.37.19:653][  0]LogSlate: ListView
+[2022.08.18-11.37.19:653][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.18-11.37.19:653][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.18-11.37.19:653][  0]LogSlate: TableView.DarkRow
+[2022.08.18-11.37.19:653][  0]LogSlate: TableView.Row
+[2022.08.18-11.37.19:653][  0]LogSlate: TreeView
+[2022.08.18-11.37.19:820][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.08.18-11.37.19:845][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.08.18-11.37.19:845][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.08.18-11.37.19:953][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.18-11.37.19:953][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.18-11.37.19:953][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.18-11.37.20:319][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: BF565D2443E44BCA4DF7CAB9C7B4B251 | Instance: BE30BB184AA73C94D4662EB3CEC8A96B (DESKTOP-G7R323G-13072).
+[2022.08.18-11.37.20:360][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.18-11.37.20:366][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.18-11.37.20:382][  0]LogPython: Using Python 3.9.7
+[2022.08.18-11.37.21:205][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.08.18-11.37.21:209][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.08.18-11.37.21:221][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.08.18-11.37.21:235][  0]LogUProjectInfo: Found projects:
+[2022.08.18-11.37.21:572][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.18-11.37.21:607][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.18-11.37.21:625][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.18-11.37.21:625][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.18-11.37.21:759][  0]LogCollectionManager: Loaded 0 collections in 0.001629 seconds
+[2022.08.18-11.37.21:848][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Saved/Collections/' took 0.00s
+[2022.08.18-11.37.21:848][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Content/Developers/Administrator/Collections/' took 0.00s
+[2022.08.18-11.37.21:848][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Content/Collections/' took 0.00s
+[2022.08.18-11.37.22:159][  0]LogEngine: Initializing Engine...
+[2022.08.18-11.37.22:172][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.18-11.37.22:174][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.18-11.37.22:404][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.18-11.37.22:404][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.18-11.37.22:415][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.18-11.37.22:444][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.18-11.37.22:445][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.18-11.37.22:468][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.18-11.37.22:468][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.18-11.37.22:468][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.18-11.37.22:469][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.18-11.37.22:469][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.18-11.37.22:469][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.18-11.37.22:469][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.18-11.37.22:469][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.18-11.37.22:469][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.18-11.37.22:469][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.18-11.37.22:469][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.18-11.37.22:469][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.18-11.37.22:469][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.18-11.37.22:469][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.18-11.37.22:469][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.18-11.37.22:469][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.18-11.37.22:477][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.18-11.37.22:589][  0]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output(2- Realtek High Definition Audio)
+[2022.08.18-11.37.22:589][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.18-11.37.22:591][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.18-11.37.22:591][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.18-11.37.22:591][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.18-11.37.22:591][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.18-11.37.22:592][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.18-11.37.22:592][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.18-11.37.22:592][  0]LogInit: FAudioDevice initialized.
+[2022.08.18-11.37.22:592][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.18-11.37.22:592][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.18-11.37.22:592][  0]LogInit: Texture streaming: Enabled
+[2022.08.18-11.37.22:628][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.18-11.37.22:637][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.18-11.37.22:664][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.18-11.37.22:672][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.18-11.37.22:672][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.18-11.37.23:466][  0]LogLiveCoding: Display: First instance in process group "UE_BluePrintTutorial_0x9613c664", spawning console
+[2022.08.18-11.37.23:466][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.18-11.37.23:466][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.18-11.37.23:486][  0]LogInit: Transaction tracking system initialized
+[2022.08.18-11.37.23:567][  0]BlueprintLog: New page: 에디터 로드
+[2022.08.18-11.37.23:770][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.08.18-11.37.23:820][  0]TimingProfiler: Initialize
+[2022.08.18-11.37.23:820][  0]TimingProfiler: OnSessionChanged
+[2022.08.18-11.37.23:820][  0]LoadingProfiler: Initialize
+[2022.08.18-11.37.23:820][  0]LoadingProfiler: OnSessionChanged
+[2022.08.18-11.37.23:820][  0]NetworkingProfiler: Initialize
+[2022.08.18-11.37.23:820][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.18-11.37.23:820][  0]MemoryProfiler: Initialize
+[2022.08.18-11.37.23:820][  0]MemoryProfiler: OnSessionChanged
+[2022.08.18-11.37.24:370][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Content/' took 0.01s
+[2022.08.18-11.37.24:370][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.18-11.37.24:578][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.18-11.37.24:580][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.08.18-11.37.24:580][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.049
+[2022.08.18-11.37.24:580][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.18-11.37.24:580][  0]LightingResults: New page: 라이팅 빌드
+[2022.08.18-11.37.24:587][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.18-11.37.24:587][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.18-11.37.24:587][  0]MapCheck: New page: 맵 체크
+[2022.08.18-11.37.24:587][  0]LightingResults: New page: 라이팅 빌드
+[2022.08.18-11.37.24:592][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.18-11.37.24:595][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.08.18-11.37.24:685][  0]LogMaterial: Display: Missing cached shadermap for Mat_PolygonDungeonRealms_01_A in PCD3D_SM5, Default, SM5 (DDC key hash: FE86F171B7DF010AF8B8156BA9BFEF5F6741A9D9), compiling. 
+[2022.08.18-11.37.24:953][  0]LogTexture: Display: 텍스처 빌드 중: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_Emission_01.T_Dungeons_2_Emission_01(TFO_AutoDXT, 4096X4096 X1X1)(필요 메모리 예상: 320.000MB), 인코딩 속도: Fast
+[2022.08.18-11.37.24:953][  0]LogTexture: Display: 텍스처 빌드 중: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_Normal_Map.T_Dungeons_2_Normal_Map(TFO_BC5, 4096X4096 X1X1)(필요 메모리 예상: 320.000MB), 인코딩 속도: Fast
+[2022.08.18-11.37.24:953][  0]LogSkeletalMesh: Building Skeletal Mesh SK_BR_Chr_Dwarf_Casual_Male_01...
+[2022.08.18-11.37.24:953][  0]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Characters/SK_BR_Chr_Dwarf_Casual_Male_01.SK_BR_Chr_Dwarf_Casual_Male_01
+[2022.08.18-11.37.24:953][  0]LogTexture: Display: 텍스처 빌드 중: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_01_A.T_Dungeons_2_01_A(TFO_AutoDXT, 4096X4096 X1X1)(필요 메모리 예상: 320.000MB), 인코딩 속도: Fast
+[2022.08.18-11.37.24:961][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.08.18-11.37.24:961][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.18-11.37.24:961][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.18-11.37.24:965][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.18-11.37.24:965][  0]LogAIModule: Creating AISystem for world Main
+[2022.08.18-11.37.24:994][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.08.18-11.37.24:995][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.18-11.37.24:996][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.294ms.
+[2022.08.18-11.37.24:996][  0]LogFileHelpers: Loading map 'Main' took 0.415
+[2022.08.18-11.37.25:029][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.498
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: ================================================
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: Total job queries 57, among them cache hits 0 (0.00%)
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: Shaders Compiled: 57
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: Jobs assigned 57, completed 0 (0.00%)
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 6.33 jobs/batch
+[2022.08.18-11.37.25:030][  0]LogShaderCompilers: Display: ================================================
+[2022.08.18-11.37.25:117][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.08.18-11.37.25:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.18-11.37.25:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.18-11.37.25:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.18-11.37.25:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.18-11.37.25:386][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.18-11.37.25:386][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.18-11.37.25:509][  0]LogSlate: Took 0.004037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.08.18-11.37.25:510][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.18-11.37.25:514][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.18-11.37.25:515][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.18-11.37.25:520][  0]LogSlate: Took 0.004469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.08.18-11.37.25:525][  0]LogSlate: Took 0.004507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.08.18-11.37.25:562][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.08.18-11.37.31:189][  0]LogStall: Startup...
+[2022.08.18-11.37.31:193][  0]LogStall: Startup complete.
+[2022.08.18-11.37.31:241][  0]LogLoad: (Engine Initialization) Total time: 18.71 seconds
+[2022.08.18-11.37.31:241][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.18-11.37.31:465][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.18-11.37.31:527][  0]LogSlate: Took 0.000485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.18-11.37.31:689][  1]LogAssetRegistry: Asset discovery search completed in 12.8576 seconds
+[2022.08.18-11.37.31:720][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.08.18-11.37.35:765][  5]LogSlate: Took 0.000613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.18-11.37.50:105][566]LogSlate: Took 0.014565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.18-11.37.51:395][718]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003268 seconds
+[2022.08.18-11.37.51:396][718]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.08.18-11.37.51:396][718]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.08.18-11.37.51:675][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.18-11.37.51:680][719]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.18-11.37.51:684][719]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.18-11.37.51:686][719]LogSlate: Took 0.001564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.18-11.37.51:688][719]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.18-11.37.51:691][719]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.18-11.37.52:142][733]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'አ (U+12a0)'
+[2022.08.18-11.37.52:161][733]LogSlate: Took 0.017888 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.08.18-11.37.52:171][733]LogSlate: Took 0.004674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2022.08.18-11.37.54:059][955]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.08.18-11.37.54:063][955]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.08.18-11.37.55:440][999]LogSlate: Took 0.005135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.18-11.37.55:462][999]LogSlate: Took 0.004813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.18-11.38.13:710][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.18-11.38.13:711][517]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.18-11.38.13:711][517]LightingResults: New page: Lighting Build
+[2022.08.18-11.38.13:711][517]LoadErrors: New page: Loading map: Main.umap
+[2022.08.18-11.38.13:719][517]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.08.18-11.38.13:719][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.18-11.38.13:719][517]MapCheck: New page: Map Check
+[2022.08.18-11.38.13:719][517]LightingResults: New page: Lighting Build
+[2022.08.18-11.38.13:725][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.18-11.38.13:729][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.18-11.38.13:736][517]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.08.18-11.38.13:736][517]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.18-11.38.13:736][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.18-11.38.13:736][517]LogAIModule: Creating AISystem for world Main
+[2022.08.18-11.38.13:739][517]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.18-11.38.13:745][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.18-11.38.13:763][517]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.18-11.38.13:763][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2022.08.18-11.38.13:763][517]LogFileHelpers: Loading map 'Main' took 0.052
+[2022.08.18-11.38.13:764][517]LogSlate: Window 'Open Level' being destroyed
+[2022.08.18-11.38.20:561][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.08.18-11.38.20:646][799]LogLinker: Warning: [AssetLog] C:\Users\Administrator\Documents\Unreal Projects\BluePrintTutorial-main\Content\PolygonDungeonRealms\Maps\Demo_Dungeon_01.umap: Failed to load '/Game/PolygonDungeonRealms/Maps/Demo_Dungeon_01_BuiltData': Can't find file.
+[2022.08.18-11.38.20:647][799]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/PolygonDungeonRealms/Maps/Demo_Dungeon_01_BuiltData'
+[2022.08.18-11.38.21:123][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_01_C.T_Dungeons_2_01_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.21:123][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_04_C.T_Dungeons_2_04_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.21:123][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_02_A.T_Dungeons_2_02_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.21:123][799]LogMaterial: Display: Missing cached shadermap for Mat_PolygonDungeonRealms_01_C in PCD3D_SM5, Default, SM5 (DDC key hash: 4AC4714E8670EE8EE692FBF12F93E7C37E4BDE00), compiling. 
+[2022.08.18-11.38.21:196][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_03_B.T_Dungeons_2_03_B (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.21:196][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_02_B.T_Dungeons_2_02_B (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.21:196][799]LogMaterial: Display: Missing cached shadermap for Mat_PolygonDungeonRealms_02_B in PCD3D_SM5, Default, SM5 (DDC key hash: 962216EED5B0F3F5F04A7347EB7092E9841D2A10), compiling. 
+[2022.08.18-11.38.21:284][799]LogMaterial: Display: Missing cached shadermap for Mat_PolygonDungeonRealms_04_B in PCD3D_SM5, Default, SM5 (DDC key hash: F49ABF4D6629DAE1D058D969B982E192A3DF9A47), compiling. 
+[2022.08.18-11.38.21:356][799]LogMaterial: Display: Missing cached shadermap for Mat_PolygonDungeonRealms_04_C in PCD3D_SM5, Default, SM5 (DDC key hash: 103385C53743B355430AE062995F87EAEA78B63C), compiling. 
+[2022.08.18-11.38.21:421][799]LogMaterial: Display: Missing cached shadermap for Mat_PolygonDungeonRealms_02_A in PCD3D_SM5, Default, SM5 (DDC key hash: 909226C2B2BF7521C7FB3ABDCE530FB9E6F0A779), compiling. 
+[2022.08.18-11.38.21:488][799]LogMaterial: Display: Missing cached shadermap for Mat_PolygonDungeonRealms_03_A in PCD3D_SM5, Default, SM5 (DDC key hash: AD0E19591BE2409B0E4E368B76CE8CBA5D45C9B5), compiling. 
+[2022.08.18-11.38.21:562][799]LogMaterial: Display: Missing cached shadermap for Mat_PolygonDungeonRealms_04_A in PCD3D_SM5, Default, SM5 (DDC key hash: 59EF5E0D6B8427AE3C0E26F4E87769A2D5F39623), compiling. 
+[2022.08.18-11.38.21:630][799]LogMaterial: Display: Missing cached shadermap for Mat_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: D3CB287005260C5302B05554D3A4F7BF8691397C), compiling. 
+[2022.08.18-11.38.21:694][799]LogMaterial: Display: Missing cached shadermap for Mat_Gold_Coins in PCD3D_SM5, Default, SM5 (DDC key hash: 8931C71AFB2EA26AC3CE40E33A57B06433F665BF), compiling. 
+[2022.08.18-11.38.21:793][799]LogMaterial: Display: Missing cached shadermap for Mat_Polygon_DungeonRealms_Crystal_01 in PCD3D_SM5, Default, SM5 (DDC key hash: F408333B12107FD55546C7FF2103C5AB25221A6F), compiling. 
+[2022.08.18-11.38.21:860][799]LogMaterial: Display: Missing cached shadermap for Mat_SpiderWebs in PCD3D_SM5, Default, SM5 (DDC key hash: BE58AFD6C34595B25E25925EB2EA64436A676EC1), compiling. 
+[2022.08.18-11.38.21:985][799]LogMaterial: Display: Missing cached shadermap for Mat_FX in PCD3D_SM5, Default, SM5 (DDC key hash: 5603931D4215FA1981B676C2896F1F23A93F5795), compiling. 
+[2022.08.18-11.38.22:112][799]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/PolygonDungeonRealms/FX/FX_Meshes/SM_FX_Sphere_Pivot) ...
+[2022.08.18-11.38.22:870][799]LogStaticMesh: Display: Building static mesh SM_FX_Sphere_Pivot...
+[2022.08.18-11.38.22:870][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/FX/FX_Meshes/SM_FX_Sphere_Pivot.SM_FX_Sphere_Pivot
+[2022.08.18-11.38.22:870][799]LogStaticMesh: Display: Building static mesh SM_Sphere_03_A...
+[2022.08.18-11.38.22:870][799]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonDungeonRealms/FX/FX_Meshes/SM_Sphere_03_A.SM_Sphere_03_A
+[2022.08.18-11.38.22:870][799]LogStaticMesh: Display: Building static mesh SM_Particle_Smoke_02a...
+[2022.08.18-11.38.22:870][799]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonDungeonRealms/FX/FX_Meshes/SM_Particle_Smoke_02a.SM_Particle_Smoke_02a
+[2022.08.18-11.38.22:870][799]LogMaterial: Display: Missing cached shadermap for Mat_FX_LavaRocks in PCD3D_SM5, Default, SM5 (DDC key hash: E27CE0B68D434A1A89888E75AE769D0FBD774E33), compiling. 
+[2022.08.18-11.38.22:981][799]LogStaticMesh: Display: Building static mesh SM_Prop_Rock_Small_02...
+[2022.08.18-11.38.22:981][799]LogStaticMesh: Display: Building static mesh SM_Prop_Rock_Small_03...
+[2022.08.18-11.38.22:981][799]LogStaticMesh: Display: Building static mesh SM_Prop_Rock_Small_01...
+[2022.08.18-11.38.22:981][799]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonDungeonRealms/Meshes/Props/SM_Prop_Rock_Small_03.SM_Prop_Rock_Small_03
+[2022.08.18-11.38.22:981][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Props/SM_Prop_Rock_Small_01.SM_Prop_Rock_Small_01
+[2022.08.18-11.38.22:981][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Props/SM_Prop_Rock_Small_02.SM_Prop_Rock_Small_02
+[2022.08.18-11.38.22:981][799]LogStaticMesh: Display: Building static mesh SM_Prop_Rock_Small_04...
+[2022.08.18-11.38.22:981][799]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/PolygonDungeonRealms/Meshes/Props/SM_Prop_Rock_Small_04) ...
+[2022.08.18-11.38.23:281][799]LogStaticMesh: Built static mesh [0.29s] /Game/PolygonDungeonRealms/Meshes/Props/SM_Prop_Rock_Small_04.SM_Prop_Rock_Small_04
+[2022.08.18-11.38.23:282][799]LogMaterial: Display: Missing cached shadermap for Mat_Polygon_DungeonRealms_Crystal_02 in PCD3D_SM5, Default, SM5 (DDC key hash: F7CE6B52F915D2FEC35CF57B301AAB507A09BDC3), compiling. 
+[2022.08.18-11.38.23:392][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Gold_Normal.T_Gold_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.23:393][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Gold_Diffuse.T_Gold_Diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.23:393][799]LogStaticMesh: Display: Building static mesh SM_Env_Bramble_01...
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Bramble_01.SM_Env_Bramble_01
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Display: Building static mesh SM_Env_Crystals_Cluster_Large_01...
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Display: Building static mesh SM_Env_Crystals_Cluster_Large_02...
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Crystals_Cluster_Large_01.SM_Env_Crystals_Cluster_Large_01
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Display: Building static mesh SM_Env_Crystals_Cluster_Large_03...
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Crystals_Cluster_Large_02.SM_Env_Crystals_Cluster_Large_02
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Display: Building static mesh SM_Env_Crystals_Cluster_Large_04...
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Crystals_Cluster_Large_03.SM_Env_Crystals_Cluster_Large_03
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Crystals_Cluster_Large_04.SM_Env_Crystals_Cluster_Large_04
+[2022.08.18-11.38.23:486][799]LogStaticMesh: Display: Building static mesh SM_Env_Dust_01...
+[2022.08.18-11.38.23:487][799]LogStaticMesh: Display: Building static mesh SM_Env_Dust_02...
+[2022.08.18-11.38.23:487][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dust_01.SM_Env_Dust_01
+[2022.08.18-11.38.23:487][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dust_02.SM_Env_Dust_02
+[2022.08.18-11.38.23:487][799]LogStaticMesh: Display: Building static mesh SM_Env_Dust_03...
+[2022.08.18-11.38.23:487][799]LogStaticMesh: Display: Building static mesh SM_Env_Dust_04...
+[2022.08.18-11.38.23:487][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dust_03.SM_Env_Dust_03
+[2022.08.18-11.38.23:487][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_Emission_04.T_Dungeons_2_Emission_04 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.23:487][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dust_04.SM_Env_Dust_04
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Display: Building static mesh SM_Env_Dust_05...
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Balustrade_02...
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dust_05.SM_Env_Dust_05
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Balustrade_02_Broken_01...
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Balustrade_02.SM_Env_Dwarf_Balustrade_02
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Balustrade_02_Broken_01.SM_Env_Dwarf_Balustrade_02_Broken_01
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Balustrade_02_Broken_02...
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Balustrade_03...
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Balustrade_02_Broken_02.SM_Env_Dwarf_Balustrade_02_Broken_02
+[2022.08.18-11.38.23:733][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_03_A.T_Dungeons_2_03_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Balustrade_03.SM_Env_Dwarf_Balustrade_03
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Balustrade_03_Broken_01...
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Balustrade_03_Broken_01.SM_Env_Dwarf_Balustrade_03_Broken_01
+[2022.08.18-11.38.23:733][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_04_A.T_Dungeons_2_04_A (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Balustrade_03_Broken_02...
+[2022.08.18-11.38.23:733][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Balustrade_03_Broken_02.SM_Env_Dwarf_Balustrade_03_Broken_02
+[2022.08.18-11.38.23:747][799]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonDungeonRealms/Maps/Demo_Dungeon_01.Demo_Dungeon_01
+[2022.08.18-11.38.23:749][799]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Documents/Unreal Projects/BluePrintTutorial-main/Content/PolygonDungeonRealms/Maps/Demo_Dungeon_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.18-11.38.23:749][799]LightingResults: New page: Lighting Build
+[2022.08.18-11.38.23:750][799]LoadErrors: New page: Loading map: Demo_Dungeon_01.umap
+[2022.08.18-11.38.23:758][799]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.08.18-11.38.23:759][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.18-11.38.23:759][799]MapCheck: New page: Map Check
+[2022.08.18-11.38.23:759][799]LightingResults: New page: Lighting Build
+[2022.08.18-11.38.23:807][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.18-11.38.23:821][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.08.18-11.38.23:854][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Balustrade_Stairs_02...
+[2022.08.18-11.38.23:854][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Beam_02...
+[2022.08.18-11.38.23:854][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Beam_02.SM_Env_Dwarf_Beam_02
+[2022.08.18-11.38.23:854][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Balustrade_Stairs_02.SM_Env_Dwarf_Balustrade_Stairs_02
+[2022.08.18-11.38.23:854][799]LogTexture: Display: Waiting for textures to be ready 5/13 (/Game/PolygonDungeonRealms/Textures/T_Dungeons_2_03_A) ...
+[2022.08.18-11.38.23:943][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Spiderweb_01.T_Spiderweb_01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.24:146][799]LogTexture: Display: Building textures: /Game/PolygonDungeonRealms/Textures/T_Dungeons_2_Emission_03.T_Dungeons_2_Emission_03 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.18-11.38.24:547][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Beam_03...
+[2022.08.18-11.38.24:547][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Beam_03.SM_Env_Dwarf_Beam_03
+[2022.08.18-11.38.24:764][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Beam_04...
+[2022.08.18-11.38.24:764][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Beam_04.SM_Env_Dwarf_Beam_04
+[2022.08.18-11.38.24:978][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Bridge_01...
+[2022.08.18-11.38.24:978][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Bridge_01.SM_Env_Dwarf_Bridge_01
+[2022.08.18-11.38.24:978][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Bridge_02...
+[2022.08.18-11.38.24:978][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Bridge_02.SM_Env_Dwarf_Bridge_02
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Bridge_Broken_01...
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Bridge_Broken_02...
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Bridge_Broken_02.SM_Env_Dwarf_Bridge_Broken_02
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Bridge_Broken_01.SM_Env_Dwarf_Bridge_Broken_01
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Bridge_Extension_01...
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_02...
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_02.SM_Env_Dwarf_Floor_02
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Bridge_Extension_01.SM_Env_Dwarf_Bridge_Extension_01
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_03...
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_05...
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_06...
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_03.SM_Env_Dwarf_Floor_03
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_05.SM_Env_Dwarf_Floor_05
+[2022.08.18-11.38.25:064][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_07...
+[2022.08.18-11.38.25:064][799]LogTexture: Display: Waiting for textures to be ready 6/13 (/Game/PolygonDungeonRealms/Textures/T_Dungeons_2_04_A) ...
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_09...
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_06.SM_Env_Dwarf_Floor_06
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_12...
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_07.SM_Env_Dwarf_Floor_07
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_16...
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_12.SM_Env_Dwarf_Floor_12
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_17...
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_09.SM_Env_Dwarf_Floor_09
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_21...
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_22...
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_16.SM_Env_Dwarf_Floor_16
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_17.SM_Env_Dwarf_Floor_17
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_24...
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_21.SM_Env_Dwarf_Floor_21
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_26...
+[2022.08.18-11.38.25:124][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_22.SM_Env_Dwarf_Floor_22
+[2022.08.18-11.38.25:138][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_28...
+[2022.08.18-11.38.25:138][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_24.SM_Env_Dwarf_Floor_24
+[2022.08.18-11.38.25:138][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_Half_01...
+[2022.08.18-11.38.25:138][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Floor_Crack_01...
+[2022.08.18-11.38.25:138][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_26.SM_Env_Dwarf_Floor_26
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Obelisk_01...
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_Half_01.SM_Env_Dwarf_Floor_Half_01
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Obelisk_02...
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_28.SM_Env_Dwarf_Floor_28
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Obelisk_01.SM_Env_Dwarf_Obelisk_01
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_01...
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_02...
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Obelisk_02.SM_Env_Dwarf_Obelisk_02
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Floor_Crack_01.SM_Env_Dwarf_Floor_Crack_01
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_01.SM_Env_Dwarf_Pillar_01
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_03...
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_05...
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_06...
+[2022.08.18-11.38.25:194][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_02.SM_Env_Dwarf_Pillar_02
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_Base_04...
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_Cap_01...
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_Base_04.SM_Env_Dwarf_Pillar_Base_04
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_Cap_01.SM_Env_Dwarf_Pillar_Cap_01
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_05.SM_Env_Dwarf_Pillar_05
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_03.SM_Env_Dwarf_Pillar_03
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_Half_04...
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_Top_02...
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_Top_02_Extension...
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_06.SM_Env_Dwarf_Pillar_06
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Pillar_Top_03...
+[2022.08.18-11.38.25:224][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_01...
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_01.SM_Env_Dwarf_Stairs_01
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_Half_04.SM_Env_Dwarf_Pillar_Half_04
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_Top_02_Extension.SM_Env_Dwarf_Pillar_Top_02_Extension
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Half_01...
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Half_Wall_01...
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Pillar_01...
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_Top_02.SM_Env_Dwarf_Pillar_Top_02
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Half_Wall_01.SM_Env_Dwarf_Stairs_Half_Wall_01
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Pillar_Top_03.SM_Env_Dwarf_Pillar_Top_03
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Pillar_01.SM_Env_Dwarf_Stairs_Pillar_01
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Half_01.SM_Env_Dwarf_Stairs_Half_01
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Pillar_02...
+[2022.08.18-11.38.25:399][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Pillar_03...
+[2022.08.18-11.38.25:400][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Pillar_04...
+[2022.08.18-11.38.25:400][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Small_01...
+[2022.08.18-11.38.25:400][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Small_Corner_02...
+[2022.08.18-11.38.25:441][799]LogStaticMesh: Built static mesh [0.16s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Pillar_03.SM_Env_Dwarf_Stairs_Pillar_03
+[2022.08.18-11.38.25:441][799]LogStaticMesh: Built static mesh [0.16s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Pillar_04.SM_Env_Dwarf_Stairs_Pillar_04
+[2022.08.18-11.38.25:441][799]LogStaticMesh: Built static mesh [0.16s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Pillar_02.SM_Env_Dwarf_Stairs_Pillar_02
+[2022.08.18-11.38.25:441][799]LogStaticMesh: Built static mesh [0.16s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Small_Corner_02.SM_Env_Dwarf_Stairs_Small_Corner_02
+[2022.08.18-11.38.25:441][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Small_Corner_05...
+[2022.08.18-11.38.25:441][799]LogStaticMesh: Built static mesh [0.16s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Small_01.SM_Env_Dwarf_Stairs_Small_01
+[2022.08.18-11.38.25:441][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Stairs_Wall_01...
+[2022.08.18-11.38.25:441][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_01...
+[2022.08.18-11.38.25:441][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_02...
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_03...
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Wall_01.SM_Env_Dwarf_Stairs_Wall_01
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Stairs_Small_Corner_05.SM_Env_Dwarf_Stairs_Small_Corner_05
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_04...
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_05...
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_04.SM_Env_Dwarf_Wall_04
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_03.SM_Env_Dwarf_Wall_03
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_02.SM_Env_Dwarf_Wall_02
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_06...
+[2022.08.18-11.38.25:442][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Alcove_Angular_01...
+[2022.08.18-11.38.25:445][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Alcove_Small_01...
+[2022.08.18-11.38.25:448][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_01.SM_Env_Dwarf_Wall_01
+[2022.08.18-11.38.25:448][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_06.SM_Env_Dwarf_Wall_06
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Angled_01...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Angled_02...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_05.SM_Env_Dwarf_Wall_05
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Alcove_Angular_01.SM_Env_Dwarf_Wall_Alcove_Angular_01
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Alcove_Small_01.SM_Env_Dwarf_Wall_Alcove_Small_01
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Angled_02.SM_Env_Dwarf_Wall_Angled_02
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Angled_01.SM_Env_Dwarf_Wall_Angled_01
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Angled_Pillar_01...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Archway_01...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Archway_03...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Archway_Top_06...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Block_Cube_02...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Angled_Pillar_01.SM_Env_Dwarf_Wall_Angled_Pillar_01
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Block_Cube_Half_02...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Archway_03.SM_Env_Dwarf_Wall_Archway_03
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Archway_Top_06.SM_Env_Dwarf_Wall_Archway_Top_06
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Archway_01.SM_Env_Dwarf_Wall_Archway_01
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Broken_02...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_DoorFrame_Double_01...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_DoorFrame_Double_01_Door_01...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Block_Cube_Half_02.SM_Env_Dwarf_Wall_Block_Cube_Half_02
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_DoorFrame_Double_02...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Block_Cube_02.SM_Env_Dwarf_Wall_Block_Cube_02
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_DoorFrame_Double_02_Door_02...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_DoorFrame_Double_02.SM_Env_Dwarf_Wall_DoorFrame_Double_02
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_DoorFrame_Double_01.SM_Env_Dwarf_Wall_DoorFrame_Double_01
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_DoorFrame_Double_01_Door_01.SM_Env_Dwarf_Wall_DoorFrame_Double_01_Door_01
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_DoorFrame_Single_01...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Broken_02.SM_Env_Dwarf_Wall_Broken_02
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_DoorFrame_Single_01_Door...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_DoorFrame_Slider_01...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_DoorFrame_Slider_01_Door...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_DoorFrame_Double_02_Door_02.SM_Env_Dwarf_Wall_DoorFrame_Double_02_Door_02
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_DoorFrame_Single_01.SM_Env_Dwarf_Wall_DoorFrame_Single_01
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Dressing_01...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_DoorFrame_Slider_01_Door.SM_Env_Dwarf_Wall_DoorFrame_Slider_01_Door
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Dressing_02...
+[2022.08.18-11.38.25:601][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Fireplace_01...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_DoorFrame_Slider_01.SM_Env_Dwarf_Wall_DoorFrame_Slider_01
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Half_01...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Dressing_02.SM_Env_Dwarf_Wall_Dressing_02
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Half_01.SM_Env_Dwarf_Wall_Half_01
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Short_02...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Short_03...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_DoorFrame_Single_01_Door.SM_Env_Dwarf_Wall_DoorFrame_Single_01_Door
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Short_02.SM_Env_Dwarf_Wall_Short_02
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Short_03.SM_Env_Dwarf_Wall_Short_03
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Trim_01...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Dressing_01.SM_Env_Dwarf_Wall_Dressing_01
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Trim_02...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Trim_04...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Trim_02.SM_Env_Dwarf_Wall_Trim_02
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Trim_01.SM_Env_Dwarf_Wall_Trim_01
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Trim_05...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Fireplace_01.SM_Env_Dwarf_Wall_Fireplace_01
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Trim_Cap_01...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Tunnel_01...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Trim_Cap_01.SM_Env_Dwarf_Wall_Trim_Cap_01
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Trim_04.SM_Env_Dwarf_Wall_Trim_04
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Hell_Spikes_04...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Dwarf_Wall_Tunnel_Archway_01...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Hell_Spikes_05...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Hell_Spikes_04.SM_Env_Hell_Spikes_04
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Tunnel_Archway_01.SM_Env_Dwarf_Wall_Tunnel_Archway_01
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Lava_Line_01...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Hell_Spikes_05.SM_Env_Hell_Spikes_05
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Display: Building static mesh SM_Env_Lava_Plane_01...
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Dwarf_Wall_Tunnel_01.SM_Env_Dwarf_Wall_Tunnel_01
+[2022.08.18-11.38.25:602][799]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonDungeonRealms/Meshes/Environments/SM_Env_Lava_Line_01.SM_Env_Lava_Line_01
